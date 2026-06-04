@@ -1,0 +1,9 @@
+name,short_name,kh_m_d,kv_m_d,porosity,resistivity_ohm_m,thermal_conductivity_w_m_k,volumetric_heat_capacity_mj_m3_k,color,note
+Unconsolidated-deposit aquifer,Overburden,30.0,3.0,0.25,45.0,1.7,2.4,#eadf7a,"Loess, flood deposits, alluvium; relatively high pore-space flow."
+Upper confining unit,Confining,0.001,1e-05,0.12,25.0,1.5,2.5,#b48a60,Fine interbeds and weathered material limiting vertical leakage.
+Saddle Mountains Basalt aquifer,Saddle Mtn.,0.73,7.3e-05,0.08,180.0,1.8,2.7,#d45835,Youngest CRBG basalt aquifer; more discontinuous than deeper units.
+Mabton/interflow confining unit,Mabton,0.0005,5e-06,0.1,30.0,1.5,2.5,#9d734d,Sedimentary interbed and lower-permeability flow interiors.
+Wanapum Basalt aquifer,Wanapum,1.58,0.000158,0.07,220.0,1.9,2.75,#e69b83,Important Odessa aquifer; flow concentrated in interflow zones.
+Vantage/interflow confining unit,Vantage,0.0005,5e-06,0.1,35.0,1.5,2.5,#8d6848,Regional interbed/confining interval between Wanapum and Grande Ronde.
+Grande Ronde Basalt aquifer,Grande Ronde,1.49,0.000149,0.06,260.0,2.0,2.8,#eec0ac,"Deep, laterally extensive CRBG aquifer targeted by pumping wells."
+Pre-Miocene older bedrock,Older bedrock,0.0001,1e-06,0.02,1000.0,2.8,2.6,#6f7d7e,Basement confining unit below the regional basalt aquifer system.
